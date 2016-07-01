@@ -2,7 +2,9 @@
 
 
 把这个源打包下载，将finalspeed_server.zip和install_fs.sh上传到主机，放在同一目录
+
 chmod +x install_fs.sh
+
 ./install_fs.sh 2>&1 | tee install.log
 
 
