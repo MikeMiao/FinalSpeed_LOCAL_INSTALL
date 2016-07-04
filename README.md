@@ -6,6 +6,7 @@
 方法二：使用wget命令把相关文件下载到主机
 
 wget https://github.com/MikeMiao/FinalSpeed_LOCAL_INSTALL/raw/master/finalspeed_server.zip
+
 wget https://raw.githubusercontent.com/MikeMiao/FinalSpeed_LOCAL_INSTALL/master/install_fs.sh
 
 chmod +x install_fs.sh
